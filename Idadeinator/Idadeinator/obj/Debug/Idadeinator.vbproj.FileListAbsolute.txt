@@ -1,0 +1,12 @@
+D:\vssrc\Idadeinator\Idadeinator\bin\Debug\Idadeinator.exe.config
+D:\vssrc\Idadeinator\Idadeinator\bin\Debug\Idadeinator.exe
+D:\vssrc\Idadeinator\Idadeinator\bin\Debug\Idadeinator.pdb
+D:\vssrc\Idadeinator\Idadeinator\bin\Debug\Idadeinator.xml
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.vbprojAssemblyReference.cache
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.Form1.resources
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.Resources.resources
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.vbproj.GenerateResource.cache
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.vbproj.CoreCompileInputs.cache
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.exe
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.xml
+D:\vssrc\Idadeinator\Idadeinator\obj\Debug\Idadeinator.pdb
